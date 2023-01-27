@@ -12,7 +12,7 @@ for (int i = 0; i < 3; i++) {
 	cout << endl;
 }
 //Single For Loops-------------------------------------------------
-// 
+	
 	//prints out 25 to 45
 	for (int i = 25; i <= 45; i++)
 		cout << i << " ";
@@ -23,7 +23,7 @@ for (int i = 0; i < 3; i++) {
 		cout << i << " ";
 	cout << endl;
 
-	//prints out 90 to 70 counting by 2
+	//prints out 10 to 5000 multiply by 5
 	for (int i = 10; i <= 5000; i *= 5)
 		cout << i << " ";
 	cout << endl;
