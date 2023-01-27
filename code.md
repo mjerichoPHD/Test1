@@ -4,6 +4,7 @@ using namespace std;
 int main() {
 
 //Nested For Loops-------------------------------------------------
+
 for (int i = 0; i < 3; i++) {
 	for (int j = 0; j < 6; j++) {
 		cout << "*";
@@ -11,6 +12,7 @@ for (int i = 0; i < 3; i++) {
 	cout << endl;
 }
 //Single For Loops-------------------------------------------------
+// 
 	//prints out 25 to 45
 	for (int i = 25; i <= 45; i++)
 		cout << i << " ";
@@ -27,6 +29,7 @@ for (int i = 0; i < 3; i++) {
 	cout << endl;
 
 	//if statement-------------------------------------------------
+
 	int cookie;
 	cout << " how many cookies do you have? " << endl;
 	cin >> cookie;
