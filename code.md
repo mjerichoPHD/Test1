@@ -24,7 +24,7 @@ for (int i = 0; i < 3; i++) {
 		cout << i << " ";
 	cout << endl;
 
-	//prints out 10 to 5000 multiply by 5
+	//prints out 10 to 5000 multiplying by 5
 	for (int i = 10; i <= 5000; i *= 5)
 		cout << i << " ";
 	cout << endl;
