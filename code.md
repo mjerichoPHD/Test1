@@ -11,6 +11,7 @@ for (int i = 0; i < 3; i++) {
 	}
 	cout << endl;
 }
+	
 //Single For Loops-------------------------------------------------
 	
 	//prints out 25 to 45
